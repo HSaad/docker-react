@@ -13,7 +13,7 @@ script:
 #   provider: elasticbeanstalk
 #   region: "us-west-2"
 #   app: "docker-react"
-#   env: "Docker-env"
+#   env: "docker-env"
 #   bucket-name: ""
 #   bucket-path: "docker-react"
 #   on:
